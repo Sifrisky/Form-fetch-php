@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Harry",
+        "email": "harry@mail.ar",
+        "estado": false
+    },
+    {
+        "id": 2,
+        "nombre": "Debora",
+        "email": "deb@bmail.ar",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "David",
+        "email": "dav@mail.ar",
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Rita",
+        "email": "rita@mail.ar",
+        "estado": true
+    },
+    {
+        "id": 5,
+        "nombre": "Cristian",
+        "email": "cris@mail.ar",
+        "estado": false
+    },
+    {
+        "id": 6,
+        "nombre": "Samantha",
+        "email": "sam@mail.ar",
+        "estado": true
+    },
+    {
+        "id": 7,
+        "nombre": "Camila",
+        "email": "cami@mail.ar",
+        "estado": false
+    }
+]
